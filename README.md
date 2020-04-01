@@ -4,8 +4,25 @@ this is an dragon interface.
 this is so cool termux  interface.
 its show you that you are hacker.
 
+🔥 🔥 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to install this in his termux.
 
 
 step 1 :-pkg install git python python2 -y
