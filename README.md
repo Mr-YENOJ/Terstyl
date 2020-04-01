@@ -1,6 +1,9 @@
 # Terstyl
 This is termux in interface.With nice sound effect.
 this is an dragon interface.
+this is so cool termux  interface.
+its so like you are hacker.
+
 
 
 
@@ -15,4 +18,4 @@ step 6 :- (i) type varjjj and enter
           (ii) And next type you own name.then enter then y.          
 step 7 :- re do step 5
 step 8 :-type varjj and enter ther typer your second name then enter and y. 
-step 9 :- last step bash 
+step 9 :- last step bash t-style.sh
