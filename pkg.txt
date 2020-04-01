@@ -1,0 +1,59 @@
+pkg install mpv -y
+
+
+
+
+pkg install curl -y
+
+
+
+pkg install python -y
+
+
+
+
+pkg install python2 -y
+
+
+
+
+pip2 install --upgrade pip -y
+
+
+
+
+pkg install lolcat -y
+
+
+
+
+pkg install toilet -y
+
+
+
+
+pkg install cowsay -y
+
+
+
+pkg update -y
+
+
+
+pkg upgrade -y
+
+
+
+
+apt-get update -y
+
+
+
+
+apt-get upgrade -y
+
+
+
+#this is my first termux tool.
+clear
+
