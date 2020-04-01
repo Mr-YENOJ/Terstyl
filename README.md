@@ -40,7 +40,10 @@ step 7 :- re do step 5.
 step 8 :-type varjj and enter ther typer your second name then enter and y. 
 ```
 ```
-step 9 :- last step bash t-style.sh .
+step 9 :- chmod +x *
+```
+```
+step 10 :- last step bash t-style.sh .
 ```
 ```
 ***this is only for termux usr***
