@@ -1,3 +1,7 @@
+
+<h1 align="center">Terstyl v1.0 </h1>
+<p align="center">
+This is advance termux terminal with amazing sound. 
 #Terstyl
 This is termux in interface.With nice sound effect.
 this is an dragon interface.
