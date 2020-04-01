@@ -1,5 +1,5 @@
 
-<h1 align="center">Terstyl v1.0 </h1>
+<h1 align="center">Terstyl v1.2 </h1>
 <p align="center">
 This is advance termux terminal with amazing sound. 
 
