@@ -9,7 +9,7 @@ This is advance termux terminal with amazing sound.
 ## About Terstyl :
 This is an termux tool which make/modify you termux interface with an new design amd with sound effect.This tool is work in both rooted and non-rooted Android phone.
 
-##How to install this in his termux:
+###How to install this in his termux:
 ```
 ```
 step 1 :-pkg install git python python2 -y . 
