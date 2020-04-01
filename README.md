@@ -43,3 +43,4 @@ step 8 :-type varjj and enter ther typer your second name then enter and y.
 step 9 :- last step bash t-style.sh .
 ```
 ```
+*this is only for termux usr*
