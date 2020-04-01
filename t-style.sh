@@ -11,6 +11,7 @@ echo "
 echo ""
 echo ""
 echo ""
+termux-setup-storage
 ls
 bash pkg.txt
 clear
@@ -28,7 +29,8 @@ cd Terstyl
 ls
 cp bash.bashrc /data/data/com.termux/files/usr/etc
 clear
-ls
+cd Terstyl
+ls 
 cp music.mp3 /sdcard
 ls
 cd
