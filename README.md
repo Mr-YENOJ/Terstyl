@@ -2,16 +2,17 @@
 <h1 align="center">Terstyl v1.0 </h1>
 <p align="center">
 This is advance termux terminal with amazing sound. 
-#Terstyl
-This is termux in interface.With nice sound effect.
-this is an dragon interface.
-this is so cool termux  interface.
-its show you that you are hacker.
-
-🔥 🔥 🔥 
 
 
 
+
+
+
+
+</p>
+
+## About Terstyl :
+This is an termux tool which make/modify you termux interface with an new design amd with sound effect.This tool is work in both rooted and non-rooted Android phone.
 
 
 
