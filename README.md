@@ -2,7 +2,7 @@
 This is termux in interface.With nice sound effect.
 this is an dragon interface.
 this is so cool termux  interface.
-its so like you are hacker.
+its show you that you are hacker.
 
 
 
